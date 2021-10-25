@@ -1,0 +1,5 @@
+4
+Sample Input
+Here is one line of words
+This line has five    words
+Words are separated by          white    space characters
